@@ -36,7 +36,11 @@
 
 <!--END_SECTION:waka-->
 
-![Visitor Count](https : //profile-counter.glitch.me/GameChaser782/count.svg)
+---
+
+![Visitor Count](https://profile-counter.glitch.me/GameChaser782/count.svg)
+
+---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
