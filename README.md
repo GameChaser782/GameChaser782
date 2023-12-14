@@ -36,7 +36,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████████▁▁ } 95.08 % as on ⏰ 13-Dec-2023
+![Visitor Count](https : //profile-counter.glitch.me/GameChaser782/count.svg)
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
