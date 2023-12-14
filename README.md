@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />, myself Harshit Upadhyay
 <p align="center">
 <a href="https://twitter.com/GameChaser782" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/harshit-upadhyay-57573a146/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
@@ -12,9 +12,9 @@
 - 🏦 I'm an Aspiring AI Engineer 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.cpp**, **.py**,  **.sql**
+- 🏫 I went to Indian Insitute of Technology, Bombay for my B.Tech (2024)
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟ or Valorant
-- ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
