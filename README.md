@@ -9,9 +9,9 @@
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm an Aspiring AI Engineer 
+- 🏦 I'm an AI Engineer 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.cpp**, **.py**,  **.sql**
+- 💻 I use daily: **.py**,  **.sql**,  **.cpp**
 - 🏫 I went to Indian Insitute of Technology, Bombay for my B.Tech (2024)
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟ or Valorant
@@ -24,6 +24,7 @@
       <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="55" height="55"/>
 </p>
 
 ---
@@ -45,7 +46,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Make everything as simple as possible, but not simpler.”— Albert Einstein   </i>
+• <i>“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and five minutes thinking about solutions.”— Albert Einstein   </i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
