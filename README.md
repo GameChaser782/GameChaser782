@@ -115,17 +115,58 @@ harshit = {
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GameChaser782&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GameChaser782&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=GameChaser782&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GameChaser782&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GameChaser782&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
+
+---
+
+## ⏱️ Coding Activity (WakaTime)
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!-- WakaTime stats will auto-update here once set up — see setup instructions below -->
+<!--END_SECTION:waka-->
+
+</div>
+
+> **⚙️ Setup (one-time, ~10 mins):**
+> 1. Create a free account at [wakatime.com](https://wakatime.com) and install the plugin in VS Code / PyCharm
+> 2. Get your **WakaTime API key** from your profile settings
+> 3. Add it as a GitHub secret named `WAKATIME_API_KEY` in this repo → Settings → Secrets → Actions
+> 4. Create `.github/workflows/waka.yml` in this repo with the content below
+> 5. Push — it'll auto-update your README every day at midnight 🎉
+>
+> **`.github/workflows/waka.yml`**
+> ```yaml
+> name: Waka Readme
+> on:
+>   schedule:
+>     - cron: '0 0 * * *'
+>   workflow_dispatch:
+> jobs:
+>   update-readme:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: anmol098/waka-readme-stats@master
+>         with:
+>           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+>           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+>           SHOW_OS: "False"
+>           SHOW_PROJECTS: "False"
+>           SHOW_TIMEZONE: "False"
+>           SHOW_EDITORS: "True"
+>           SHOW_LANGUAGE: "True"
+>           SHOW_COMMIT: "True"
+> ```
 
 ---
 
