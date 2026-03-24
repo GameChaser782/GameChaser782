@@ -138,36 +138,6 @@ harshit = {
 
 </div>
 
-> **⚙️ Setup (one-time, ~10 mins):**
-> 1. Create a free account at [wakatime.com](https://wakatime.com) and install the plugin in VS Code / PyCharm
-> 2. Get your **WakaTime API key** from your profile settings
-> 3. Add it as a GitHub secret named `WAKATIME_API_KEY` in this repo → Settings → Secrets → Actions
-> 4. Create `.github/workflows/waka.yml` in this repo with the content below
-> 5. Push — it'll auto-update your README every day at midnight 🎉
->
-> **`.github/workflows/waka.yml`**
-> ```yaml
-> name: Waka Readme
-> on:
->   schedule:
->     - cron: '0 0 * * *'
->   workflow_dispatch:
-> jobs:
->   update-readme:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: anmol098/waka-readme-stats@master
->         with:
->           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
->           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
->           SHOW_OS: "False"
->           SHOW_PROJECTS: "False"
->           SHOW_TIMEZONE: "False"
->           SHOW_EDITORS: "True"
->           SHOW_LANGUAGE: "True"
->           SHOW_COMMIT: "True"
-> ```
-
 ---
 
 ## 🎯 Current Focus
