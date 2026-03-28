@@ -118,23 +118,15 @@ harshit = {
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GameChaser782&theme=tokyonight&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GameChaser782&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
 ---
 
 ## ⏱️ Coding Activity (WakaTime)
 
 <div align="center">
 
-<!--START_SECTION:waka-->
+<--START_SECTION:waka-->
 <!-- WakaTime stats will auto-update here once set up — see setup instructions below -->
-<!--END_SECTION:waka-->
+<--END_SECTION:waka-->
 
 </div>
 
