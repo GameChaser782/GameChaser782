@@ -120,18 +120,6 @@ harshit = {
 
 ---
 
-## ⏱️ Coding Activity (WakaTime)
-
-<div align="center">
-
-<--START_SECTION:waka-->
-<!-- WakaTime stats will auto-update here once set up — see setup instructions below -->
-<--END_SECTION:waka-->
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 ```
