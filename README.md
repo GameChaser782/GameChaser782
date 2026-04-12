@@ -114,7 +114,7 @@ harshit = {
 
 <div align="center">
 
-<img src="https://github-stats.com/api?username=GameChaser782&show_icons=true&theme=dark" alt="GitHub Stats" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GameChaser782" alt="GitHub Streak" /></a>
 
 </div>
 
